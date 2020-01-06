@@ -4,10 +4,10 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: This Is A Big Hero Headline
+  title: Lots of Tiny Ads, Lots of New Leads, Less Ad Spend
   content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
     who need a sleek, modern SaaS site. '
-  image: "/images/binoculars.png"
+  image: "/images/6.jpg"
   actions:
   - label: Learn More
     url: "/features"
