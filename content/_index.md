@@ -4,7 +4,7 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Lots of Tiny Ads, Lots of New Leads, Less Ad Spend
+  title: Good, Catchy Title Here
   content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
     who need a sleek, modern SaaS site. '
   image: "/images/6.jpg"
