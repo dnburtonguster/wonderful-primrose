@@ -4,10 +4,12 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Good, Catchy Title Here
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
-  image: "/images/6.jpg"
+  title: Live, Collaborative Online Coding Classes for Kids and Teens
+  content: CB delivers the most fun and effective live, online coding classes for
+    kids age 6-18. Our coding classes are about more than coding - they are designed
+    to nurture imagination, creativity, mental resilience, and collaborative thinking
+    - in a unique environment.
+  image: "/images/coding_for_girls.png"
   actions:
   - label: Learn More
     url: "/features"
