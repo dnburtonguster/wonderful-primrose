@@ -22,7 +22,7 @@ fields:
   - type: include
     name: include_action
     label: Action
-    template: section_reviews
+    template: action
   config:
     labelField: label
 - type: text
