@@ -21,12 +21,16 @@ fields:
   - type: text
     name: title
     label: title
-  - type: textarea
-    name: content
-    label: content
   - type: file
     name: image
     label: image
+  - type: textarea
+    name: content
+    label: content
+    config:
+      wysiwyg: true
+      schema:
+        format: html
   - type: field_group_list
     name: actions
     label: actions
@@ -40,3 +44,31 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: 4-block
+  type: field_group_list
+  fields:
+  - name: img1
+    type: field_group
+    config: {}
+    fields:
+    - name: img1
+      type: file
+      config:
+        maxSize: 250
+      label: img1
+    label: img1
+  - name: img2
+    type: field_group
+    config: {}
+    fields:
+    - name: img2
+      type: file
+      config:
+        maxSize: 250
+      label: img2
+    label: img2
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: 4-block
