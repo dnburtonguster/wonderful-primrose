@@ -13,6 +13,14 @@ sections:
   actions:
   - label: Learn More
     url: "/features"
+- template: section_content
+  bg: gray
+  type: section_content
+  section_id: 4-columns-test
+  title: title-here
+  content: 95% Success Rate
+  image: "/images/key-concepts-00acc1.png"
+  actions: []
 - type: section_reviews
   template: section_reviews
   section_id: reviews
