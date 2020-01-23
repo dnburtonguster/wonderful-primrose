@@ -13,43 +13,6 @@ sections:
   actions:
   - label: Learn More
     url: "/features"
-- template: section_content
-  bg: gray
-  type: section_content
-  section_id: 4-columns-test
-  title: title-here
-  content: 95% Success Rate
-  image: "/images/key-concepts-00acc1.png"
-  actions: []
-- type: section_reviews
-  template: section_reviews
-  section_id: reviews
-  title: Testimonials
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
-  bg: white
-  reviews:
-  - author: John Doe
-    avatar: "/images/key-concepts-00acc1.png"
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - author: Jane Roe
-    avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
-- type: section_cta
-  template: section_cta
-  section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "/signup"
 - type: section_features
   template: section_features
   section_id: features
@@ -79,6 +42,35 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
+- type: section_reviews
+  template: section_reviews
+  section_id: reviews
+  title: Testimonials
+  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
+    semper libero id sodales. '
+  bg: white
+  reviews:
+  - author: John Doe
+    avatar: "/images/key-concepts-00acc1.png"
+    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
+      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - author: Jane Roe
+    avatar: images/review2.jpg
+    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
+      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
+      vel posuere justo laoreet.
+  - author: Richard Roe
+    avatar: images/review3.jpg
+    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
+      et malesuada fames ac ante ipsum primis in faucibus.
+- type: section_cta
+  template: section_cta
+  section_id: call-to-action
+  title: This Is Call To Action Block!
+  subtitle: This is an optional description for the call to action block.
+  actions:
+  - label: Get Started
+    url: "/signup"
 - type: section_posts
   template: section_posts
   section_id: recent-posts
