@@ -11,7 +11,7 @@ sections:
     - in a unique environment.
   image: "/images/coding_for_girls.png"
   actions:
-  - label: Learn More
+  - label: Enroll Now
     url: "/features"
 - type: section_features
   template: section_features
